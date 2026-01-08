@@ -13,7 +13,7 @@ policies = [
     ("public_exposure_risk", "data.terraform.public_exposure_risk.rule", "mandatory"),
 ]
 
-for i in range(1, 10001):
+for i in range(1, 1001):
     for name, query, level in policies:
         print(f'''policy {name}_{i} {{
 query = "{query}"
