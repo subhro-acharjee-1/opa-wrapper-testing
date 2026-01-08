@@ -47,3 +47,13 @@ policy ec2_ami_required {
 query = "data.terraform.ec2_ami_required.rule"
 enforcement_level = "mandatory"
 }
+
+policy ec2_high_risk_configuration {
+    query = "data.terraform.ec2_high_risk_configuration.rule"
+    enforcement_level="advisory"
+}
+
+policy public_exposure_risk {
+    query = "data.terraform.public_exposure_risk.rule"
+    enforcement_level="mandatory"
+}
