@@ -5938,3 +5938,3003 @@ query = "data.terraform.public_exposure_risk.rule"
 enforcement_level = "mandatory"
 }
 
+policy ec2_instance_type_restricted_100 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_100 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_100 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_100 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_100 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_100 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_100 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_100 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_100 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_100 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_100 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_100 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_101 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_101 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_101 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_101 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_101 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_101 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_101 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_101 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_101 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_101 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_101 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_101 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_102 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_102 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_102 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_102 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_102 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_102 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_102 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_102 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_102 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_102 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_102 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_102 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_103 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_103 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_103 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_103 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_103 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_103 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_103 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_103 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_103 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_103 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_103 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_103 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_104 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_104 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_104 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_104 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_104 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_104 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_104 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_104 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_104 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_104 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_104 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_104 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_105 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_105 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_105 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_105 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_105 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_105 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_105 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_105 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_105 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_105 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_105 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_105 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_106 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_106 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_106 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_106 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_106 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_106 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_106 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_106 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_106 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_106 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_106 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_106 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_107 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_107 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_107 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_107 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_107 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_107 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_107 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_107 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_107 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_107 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_107 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_107 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_108 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_108 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_108 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_108 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_108 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_108 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_108 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_108 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_108 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_108 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_108 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_108 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_109 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_109 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_109 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_109 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_109 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_109 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_109 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_109 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_109 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_109 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_109 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_109 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_110 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_110 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_110 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_110 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_110 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_110 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_110 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_110 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_110 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_110 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_110 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_110 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_111 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_111 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_111 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_111 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_111 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_111 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_111 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_111 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_111 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_111 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_111 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_111 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_112 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_112 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_112 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_112 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_112 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_112 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_112 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_112 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_112 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_112 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_112 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_112 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_113 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_113 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_113 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_113 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_113 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_113 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_113 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_113 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_113 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_113 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_113 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_113 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_114 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_114 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_114 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_114 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_114 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_114 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_114 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_114 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_114 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_114 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_114 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_114 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_115 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_115 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_115 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_115 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_115 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_115 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_115 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_115 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_115 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_115 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_115 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_115 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_116 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_116 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_116 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_116 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_116 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_116 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_116 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_116 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_116 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_116 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_116 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_116 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_117 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_117 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_117 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_117 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_117 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_117 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_117 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_117 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_117 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_117 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_117 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_117 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_118 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_118 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_118 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_118 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_118 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_118 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_118 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_118 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_118 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_118 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_118 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_118 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_119 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_119 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_119 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_119 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_119 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_119 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_119 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_119 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_119 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_119 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_119 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_119 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_120 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_120 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_120 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_120 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_120 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_120 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_120 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_120 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_120 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_120 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_120 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_120 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_121 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_121 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_121 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_121 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_121 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_121 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_121 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_121 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_121 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_121 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_121 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_121 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_122 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_122 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_122 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_122 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_122 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_122 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_122 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_122 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_122 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_122 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_122 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_122 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_123 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_123 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_123 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_123 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_123 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_123 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_123 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_123 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_123 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_123 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_123 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_123 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_124 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_124 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_124 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_124 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_124 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_124 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_124 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_124 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_124 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_124 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_124 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_124 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_125 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_125 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_125 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_125 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_125 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_125 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_125 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_125 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_125 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_125 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_125 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_125 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_126 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_126 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_126 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_126 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_126 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_126 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_126 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_126 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_126 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_126 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_126 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_126 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_127 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_127 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_127 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_127 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_127 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_127 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_127 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_127 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_127 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_127 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_127 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_127 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_128 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_128 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_128 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_128 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_128 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_128 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_128 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_128 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_128 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_128 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_128 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_128 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_129 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_129 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_129 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_129 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_129 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_129 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_129 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_129 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_129 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_129 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_129 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_129 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_130 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_130 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_130 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_130 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_130 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_130 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_130 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_130 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_130 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_130 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_130 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_130 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_131 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_131 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_131 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_131 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_131 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_131 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_131 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_131 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_131 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_131 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_131 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_131 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_132 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_132 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_132 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_132 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_132 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_132 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_132 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_132 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_132 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_132 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_132 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_132 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_133 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_133 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_133 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_133 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_133 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_133 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_133 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_133 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_133 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_133 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_133 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_133 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_134 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_134 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_134 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_134 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_134 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_134 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_134 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_134 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_134 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_134 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_134 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_134 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_135 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_135 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_135 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_135 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_135 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_135 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_135 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_135 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_135 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_135 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_135 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_135 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_136 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_136 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_136 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_136 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_136 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_136 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_136 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_136 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_136 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_136 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_136 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_136 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_137 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_137 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_137 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_137 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_137 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_137 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_137 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_137 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_137 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_137 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_137 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_137 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_138 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_138 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_138 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_138 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_138 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_138 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_138 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_138 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_138 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_138 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_138 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_138 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_139 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_139 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_139 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_139 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_139 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_139 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_139 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_139 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_139 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_139 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_139 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_139 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_140 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_140 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_140 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_140 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_140 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_140 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_140 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_140 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_140 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_140 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_140 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_140 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_141 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_141 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_141 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_141 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_141 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_141 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_141 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_141 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_141 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_141 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_141 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_141 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_142 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_142 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_142 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_142 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_142 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_142 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_142 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_142 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_142 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_142 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_142 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_142 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_143 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_143 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_143 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_143 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_143 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_143 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_143 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_143 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_143 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_143 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_143 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_143 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_144 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_144 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_144 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_144 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_144 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_144 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_144 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_144 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_144 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_144 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_144 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_144 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_145 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_145 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_145 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_145 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_145 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_145 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_145 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_145 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_145 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_145 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_145 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_145 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_146 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_146 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_146 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_146 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_146 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_146 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_146 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_146 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_146 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_146 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_146 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_146 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_147 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_147 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_147 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_147 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_147 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_147 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_147 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_147 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_147 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_147 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_147 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_147 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_148 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_148 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_148 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_148 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_148 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_148 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_148 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_148 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_148 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_148 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_148 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_148 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_instance_type_restricted_149 {
+query = "data.terraform.ec2_instance_type_restricted.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_iam_profile_required_149 {
+query = "data.terraform.ec2_iam_profile_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_subnet_required_149 {
+query = "data.terraform.ec2_subnet_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_security_group_required_149 {
+query = "data.terraform.ec2_security_group_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_public_ip_unknown_149 {
+query = "data.terraform.ec2_public_ip_unknown.rule"
+enforcement_level = "advisory"
+}
+
+policy s3_no_public_acl_149 {
+query = "data.terraform.s3_no_public_acl.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_keys_149 {
+query = "data.terraform.aws_provider_no_static_keys.rule"
+enforcement_level = "mandatory"
+}
+
+policy aws_provider_no_static_secret_149 {
+query = "data.terraform.aws_provider_no_static_secret.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_keypair_required_149 {
+query = "data.terraform.ec2_keypair_required.rule"
+enforcement_level = "advisory"
+}
+
+policy ec2_ami_required_149 {
+query = "data.terraform.ec2_ami_required.rule"
+enforcement_level = "mandatory"
+}
+
+policy ec2_high_risk_configuration_149 {
+query = "data.terraform.ec2_high_risk_configuration.rule"
+enforcement_level = "advisory"
+}
+
+policy public_exposure_risk_149 {
+query = "data.terraform.public_exposure_risk.rule"
+enforcement_level = "mandatory"
+}
+
