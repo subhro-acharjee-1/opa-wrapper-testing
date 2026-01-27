@@ -20,7 +20,7 @@ enforcement_level = "mandatory"
 
 policy ec2_public_ip_unknown_1 {
 query = "data.terraform.ec2_public_ip_unknown.rule"
-enforcement_level = "advisory"
+enforcement_level = "mandatory"
 }
 
 policy s3_no_public_acl_1 {
@@ -57,4 +57,3 @@ policy public_exposure_risk_1 {
 query = "data.terraform.public_exposure_risk.rule"
 enforcement_level = "mandatory"
 }
-
