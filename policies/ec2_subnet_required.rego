@@ -10,7 +10,7 @@ import input.plan as plan
 rule contains outcome if {
 	r := plan.resource_changes[_]
 	r.type == "aws_instance"
-	
+	r.change.after.subnet_id == null
 
 	meta := rego.metadata.chain()
 
