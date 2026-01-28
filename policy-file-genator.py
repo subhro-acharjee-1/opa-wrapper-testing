@@ -11,9 +11,10 @@ policies = [
     ("ec2_ami_required", "data.terraform.ec2_ami_required.rule", "mandatory"),
     ("ec2_high_risk_configuration", "data.terraform.ec2_high_risk_configuration.rule", "advisory"),
     ("public_exposure_risk", "data.terraform.public_exposure_risk.rule", "mandatory"),
+    ("always_fail", "data.terraform.always_fail.rule", "mandatory")
 ]
 
-for i in range(1, 2):
+for i in range(1, 10):
     for name, query, level in policies:
         print(f'''policy {name}_{i} {{
 query = "{query}"
